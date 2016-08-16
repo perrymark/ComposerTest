@@ -1,0 +1,19 @@
+{
+    "name": "composer-test/sample",
+    "description": "This is a sample description",
+    "type": "magento2-module",
+    "authors": [
+        {
+            "name": "Zeald Services",
+            "email": "support@zeald.com"
+        }
+    ],
+    "extra": {
+        "map": [
+            [
+                "*",
+                "ComposerTest/Sample"
+            ]
+        ]
+    }
+}
